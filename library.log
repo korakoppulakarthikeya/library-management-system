@@ -1,0 +1,8 @@
+2026-03-11 11:26:19,350 - INFO - Book added: Logging
+2026-03-11 11:26:49,271 - INFO - Book removed: 100
+2026-03-11 11:27:08,516 - INFO - Book issued: Logging
+2026-03-11 11:27:35,131 - INFO - Book returned: Logging
+2026-03-11 12:16:36,416 - INFO - Book added: Python operations
+2026-03-12 12:11:13,185 - INFO - Book added: laks
+2026-03-12 12:11:23,914 - INFO - Book removed: 121
+2026-03-12 12:11:44,285 - INFO - Book issued: laks

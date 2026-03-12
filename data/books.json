@@ -1,0 +1,14 @@
+[
+    {
+        "book_id": 1,
+        "title": "Python operations",
+        "author": "abc",
+        "available": true
+    },
+    {
+        "book_id": 123,
+        "title": "laks",
+        "author": "sadlj",
+        "available": false
+    }
+]
